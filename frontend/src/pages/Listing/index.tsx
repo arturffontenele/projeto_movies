@@ -1,10 +1,10 @@
+import Pagination from "../../components/Pagination";
+
 function Listing (){
  
     return (
 
-    <h1>
-        Teste Listagem
-    </h1>
+        <Pagination /> 
 
     );
 } 
